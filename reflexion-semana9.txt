@@ -1,0 +1,9 @@
+Es fundamental que las plataformas tecnológicas que usan las comunidades funcionen de manera estable y segura en un servidor porque 
+de ellas depende el acceso continuo a servicios esenciales, información local y herramientas de participación. En contextos de desarrollo comunitario,
+digitalización de comercios o gestión de servicios locales, la caída de una plataforma no es solo un fallo técnico, sino 
+una interrupción directa en las actividades de los usuarios. La estabilidad del servidor garantiza que la plataforma esté disponible las 24 horas del día,
+lo que genera confianza en la tecnología y permite que cualquier ciudadano o emprendedor acceda a los recursos compartidos justo cuando lo necesita. 
+Por otro lado, la seguridad en el entorno del servidor es el pilar que protege la integridad y privacidad de los datos de la comunidad frente a accesos no autorizados o ataques cibernéticos. 
+Si un servidor es vulnerable, se pone en riesgo información sensible de los usuarios, lo que puede destruir la credibilidad de un proyecto social o comercial en un abrir y cerrar de ojos. 
+Mantener un servidor optimizado, con un monitoreo constante de logs y configuraciones robustas, asegura que el software funcione sin interrupciones, permitiendo que la comunidad se apropie de
+estas herramientas digitales para impulsar su autogestión, su economía local y su conectividad de manera segura, sostenible y confiable a largo plazo.
